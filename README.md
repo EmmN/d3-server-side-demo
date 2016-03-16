@@ -5,7 +5,7 @@ This demo app uses d3.js to render svg charts on the server-side with node.js.
 
 ## Requirements
 
-* Node.js - [http://nodejs.org](http://nodejs.org)
+* Node.js - [http://nodejs.org](http://nodejs.org) node --version (v5.8.0)
 * GCC Compiler - the d3 node module uses jsdom which requires a C++ compiler:
 [https://github.com/tmpvar/jsdom#contextify](https://github.com/tmpvar/jsdom#contextify)
 
