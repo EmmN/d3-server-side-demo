@@ -9,6 +9,7 @@ app.set('view engine', 'html');
 
 var fixtureData = require('./fixture_data.json');
 app.locals.barChartHelper = require('./bar_chart_helper');
+app.locals.donutChartHelper = require('./donut_chart_helper');
 
 
 app.get('/', function(req, res) {

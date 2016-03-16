@@ -46,5 +46,16 @@
         containerId: 'bar-chart-large'
       })
     %>
+    <hr>
+    <%-
+      donutChartHelper.getDonutChart({
+        data: fixtureData,
+        width: 800,
+        height: 600,
+        xAxisLabel: '2012',
+        yAxisLabel: 'Views',
+        containerId: 'bar-chart-large'
+      })
+    %>    
   </body>
 </html>
