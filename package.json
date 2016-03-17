@@ -21,4 +21,13 @@
     "type": "git",
     "url": "https://github.com/gregjopa/d3-server-side-demo"
   }
+  {
+    "name": "d3serversidedemo",
+    "description": "a really cool app to generate charts on server",
+    "version": "1.0.0",
+    "engines": {
+      "node": "5.8.0"
+    }
+  }
+
 }
