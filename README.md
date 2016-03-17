@@ -19,3 +19,8 @@ This demo app uses d3.js to render svg charts on the server-side with node.js.
 
 * image from SVG is found here:
 [http://localhost:3000/image](http://localhost:3000/image)
+
+
+## Test it
+* SVG - [https://d3serversidedemo.herokuapp.com/](https://d3serversidedemo.herokuapp.com/)
+* PNG - [https://d3serversidedemo.herokuapp.com/image](https://d3serversidedemo.herokuapp.com/image)
